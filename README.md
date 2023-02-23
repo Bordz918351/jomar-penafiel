@@ -47,3 +47,7 @@ NOTE: We can't guarantee that you won't be blocked using this method, although i
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=askrella/whatsapp-chatgpt&type=Date)](https://star-history.com/#askrella/whatsapp-chatgpt&Date)
+
+12345
+12345
+
